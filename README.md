@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React.js, Firebase, Frontend Dev, SEO, GitHub, and Tech Startups**
 
-- 📫 Reach me at: **gourishankermajnu@gmail.com**
+- 📫 Reach me at: **gourishanker0408@gmail.com**
 
 - 🏆 Tech Stack:  
   ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)

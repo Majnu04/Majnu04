@@ -6,7 +6,7 @@
 <!-- Animated Typing -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%91%91+Frontend+Architect+%7C+React+Specialist;%E2%9C%A8+Building+Premium+Digital+Experiences;%F0%9F%9A%80+Transforming+Ideas+Into+Reality" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Frontend+Architect+%7C+React+Specialist;Building+Premium+Digital+Experiences;Transforming+Ideas+Into+Reality" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
+## **About Me**
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
@@ -53,7 +53,7 @@ currently:
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **Royal Tech Arsenal**
+## **Tech Stack**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7&theme=dark" />
@@ -67,7 +67,7 @@ currently:
 
 <!-- Tech Stats Bars -->
 <details>
-<summary><b>📊 Proficiency Levels</b></summary>
+<summary><b>Proficiency Levels</b></summary>
 <br>
 
 ```text
@@ -82,12 +82,12 @@ Cloud/DevOps     ██████████████░░░░░░░
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **Featured Masterpieces**
+## **Featured Projects**
 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🏆 Elite Tech Solutions</h3>
+<h3 align="center">Elite Tech Solutions</h3>
 <p align="center">
   <a href="https://elitedigitalsolutions.tech" target="_blank">
     <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-e94560?style=for-the-badge"/>
@@ -101,7 +101,7 @@ Cloud/DevOps     ██████████████░░░░░░░
 </p>
 </td>
 <td width="50%">
-<h3 align="center">♻️ E-Waste Journey Dashboard</h3>
+<h3 align="center">E-Waste Journey Dashboard</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/🎮_GAMIFIED-1a1a2e?style=for-the-badge"/>
 </p>
@@ -115,7 +115,7 @@ Cloud/DevOps     ██████████████░░░░░░░
 </tr>
 <tr>
 <td width="50%">
-<h3 align="center">🍽️ FoodShare App</h3>
+<h3 align="center">FoodShare App</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/🌱_SOCIAL_IMPACT-16213e?style=for-the-badge"/>
 </p>
@@ -127,7 +127,7 @@ Cloud/DevOps     ██████████████░░░░░░░
 </p>
 </td>
 <td width="50%">
-<h3 align="center">🚀 More Coming Soon...</h3>
+<h3 align="center">More Coming Soon...</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/⚡_IN_PROGRESS-0f3460?style=for-the-badge"/>
 </p>
@@ -144,7 +144,7 @@ Cloud/DevOps     ██████████████░░░░░░░
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="30"> **GitHub Royalty Stats**
+## **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Majnu04&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=ffffff&ring_color=e94560" width="49%" />
@@ -163,7 +163,7 @@ Cloud/DevOps     ██████████████░░░░░░░
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> **3D Contribution Kingdom**
+## **3D Contribution Graph**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Majnu04/Majnu04/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
@@ -172,7 +172,7 @@ Cloud/DevOps     ██████████████░░░░░░░
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 **Watch My Contributions Get Eaten!**
+## **Contribution Snake**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Majnu04/Majnu04/main/dist/snake.svg" width="100%" />
@@ -181,7 +181,7 @@ Cloud/DevOps     ██████████████░░░░░░░
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 **GitHub Trophies**
+## **GitHub Trophies**
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Majnu04&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" />
@@ -190,7 +190,7 @@ Cloud/DevOps     ██████████████░░░░░░░
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Let's Connect & Create Magic**
+## **Connect With Me**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gowri-sankar-nelam-0555771b6/">
@@ -226,7 +226,7 @@ Cloud/DevOps     ██████████████░░░░░░░
 
 <!-- Secret Easter Egg -->
 <details>
-<summary>🎁 <b>Secret Easter Egg</b></summary>
+<summary><b>Secret Easter Egg</b></summary>
 <br>
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200"/>

@@ -1,6 +1,6 @@
 <!-- Royal Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:1a1a2e,50:16213e,100:0f3460&text=GOURI%20SHANKER&fontSize=55&fontColor=e94560&animation=twinkling&stroke=e94560&strokeWidth=2&desc=Crafting%20Digital%20Excellence&descSize=20&descAlignY=75&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:1a1a2e,50:16213e,100:0f3460&text=GOWRI%20SANKAR&fontSize=55&fontColor=e94560&animation=twinkling&stroke=e94560&strokeWidth=2&desc=Crafting%20Digital%20Excellence&descSize=20&descAlignY=75&descAlign=50" width="100%" />
 </p>
 
 <!-- Animated Typing -->
@@ -29,7 +29,7 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 ```yaml
-name: Gouri Shanker
+name: Gowri Sankar
 located_in: India 🇮🇳
 current_role: Frontend Engineer & React Specialist
 

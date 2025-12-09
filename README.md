@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gouri Shanker</h1>
-<h3 align="center">Founder of Elite Tech Solutions | Passionate Developer | Tech Educator</h3>
+<h3 align="center">  Passionate Developer | Tech Educator</h3>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - 💻 I'm currently working on **Elite Tech Solutions – Building modern web platforms for startups & businesses**
 
-- 🔭 I recently built: [Elite Tech Solutions Website](https://elitetechsolutions-eta.vercel.app)
+- 🔭 I recently built: [Elite Digital Solutions Website](https://elitedigitalsolutions.tech)
 
 - 🌱 I’m currently learning **Next.js**, **Tailwind CSS**, and **Firebase integrations**
 

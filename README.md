@@ -1,87 +1,79 @@
-<!-- 3D Animated Header -->
+<!-- 3D Wavy Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/images/animated_header.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=230&section=header&text=GOURI%20SHANKER&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">👋 Hey, I'm <span style="color:#4FE0B0;">Gouri Shanker</span></h1>
-<h3 align="center">Frontend Engineer • React Developer • UI/UX Explorer</h3>
+<h2 align="center">🚀 Frontend Engineer • React Developer • UI/UX Explorer</h2>
 
 ---
 
-<!-- 3D Developer Animation -->
+## 🌟 About Me
+🔥 I build fast, modern and beautiful web applications  
+🎨 Clean UI, smooth UX, pixel-perfect designs are my style  
+⚡ Obsessed with React, Next.js & Firebase  
+🌐 View my profile → **https://github.com/Majnu04**
+
+---
+
+## 🧠 Tech Stack
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TechShreyash/3D-GIFs/main/dev-working.gif" width="350" />
-</p>
-
----
-
-## 🚀 About Me
-
-🔥 Passionate about building **fast, modern & beautiful web apps**  
-🎨 Lover of **clean UI, smooth UX, and pixel-perfect design**  
-⚡ Always levelling up in **Next.js · Firebase · Cloud Deployments**  
-📌 View my GitHub: **[github.com/Majnu04](https://github.com/Majnu04)**  
-
----
-
-## 🧠 Tech Stack I Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,firebase,nodejs,express,mongodb,git,github,vscode,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,firebase,nodejs,express,mongodb,git,github,vscode,figma,linux&perline=7" />
 </p>
 
 ---
 
-## 🌟 Featured Work
+## 🚀 Featured Projects
 
-### 🔹 Elite Tech Solutions  
-Premium modern business website  
-👉 https://elitedigitalsolutions.tech  
+### 🔹 **Elite Tech Solutions**
+Premium business website  
+https://elitedigitalsolutions.tech
 
-### 🔹 E-Waste Journey Dashboard  
-Track & reward responsible recycling  
+### 🔹 **E-Waste Journey Dashboard**
+Interactive dashboard to track & reward e-waste disposal
 
-### 🔹 FoodShare App  
-A platform to share leftover food easily  
+### 🔹 **FoodShare App**
+Community app for sharing food and reducing waste
 
 ---
 
-# 📊 My GitHub Insights (Auto-Live)
+# 📊 GitHub Insights
 
-## 🔥 GitHub Stats  
-<p align="center">
+## 🔥 GitHub Stats
+<p>
   <a href="https://github.com/Majnu04">
-    <img src="https://github-readme-stats.vercel.app/api?username=Majnu04&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Majnu04&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
   </a>
   <a href="https://github.com/Majnu04">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Majnu04&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Majnu04&theme=tokyonight&hide_border=true" width="49%"/>
   </a>
 </p>
 
 ---
 
-## 🛰️ 3D Contribution Graph (Clickable)
-
+## 🎯 3D Contribution Graph (WORKING)
 <p align="center">
   <a href="https://github.com/Majnu04">
-    <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/profile-season-animate.svg" width="100%"/>
+    <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/profile-night-rainbow.svg" width="100%"/>
   </a>
 </p>
 
 ---
 
-## 🧩 Contribution Snake
+## 🐍 Contribution Snake (WORKS ONLY IF FILE EXISTS)
+
+> To enable snake animation, run this once inside your repo:  
+> **Settings → Pages → Source: GitHub Actions**  
+> Want me to generate fully working snake workflow for you? Tell me “Yes Neo”!
 
 <p align="center">
   <a href="https://github.com/Majnu04">
-    <img src="https://raw.githubusercontent.com/Majnu04/Majnu04/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
   </a>
 </p>
 
 ---
 
 ## 🔗 Connect With Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/gowri-sankar-nelam-0555771b6/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" />
@@ -97,7 +89,5 @@ A platform to share leftover food easily
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TechShreyash/3D-GIFs/main/earth-rotate.gif" width="160" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=150&section=footer" />
 </p>
-
-<h3 align="center">✨ Keep Exploring. Keep Building. Keep Growing.</h3>

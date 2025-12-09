@@ -1,58 +1,55 @@
-<h1 align="center">Hi 👋, I'm Gouri Shanker</h1>
-<h3 align="center">Passionate Developer | Frontend Engineer | Tech Educator</h3>
+GOURI SHANKER
+Frontend Engineer • Web Developer • Tech Explorer
+<p align="center"> <img src="https://i.imgur.com/hYxZLZg.gif" width="420"/> </p>
+🚀 Who Am I?
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+Hi! I'm Gouri Shanker, a developer who loves turning ideas into clean, powerful, and user-friendly digital experiences.
 
-- 💻 I build **modern web platforms** with React, Node, and Firebase.
-- 🔭 Recently developed: **Elite Tech Solutions Website**  
-  👉 https://elitedigitalsolutions.tech
-- 🌱 Currently learning **Next.js, Tailwind CSS, Firebase & SEO Optimization**
-- 💬 Ask me about **React.js, Backend APIs, Firebase Auth, Hosting, SEO, and UI/UX**
-- 📫 Reach me at: **gourishanker005@gmail.com**
+I build modern web apps that are fast, minimal, and built with strong engineering practices.
+Currently leveling up in advanced frontend frameworks and cloud integration.
 
----
+🧠 What I'm Great At
 
-### 🛠️ Tech Stack
+⚡ Building responsive & modern web UIs
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+🔥 React + Next.js frontend engineering
 
----
+🧩 Firebase authentication & real-time apps
 
-### 🚀 Featured Projects
+🚀 Optimized SEO, performance & deployments
 
-- 🔗 **Elite Tech Solutions** – Professional services website  
-  https://elitetechsolutions-eta.vercel.app
+📡 API design, integration, and automation
 
-- 🔗 **E-Waste Tracker Dashboard** – Reward-based recycling platform
+🚀 Tech I Use Daily
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,firebase,nodejs,express,mongodb,git,github,vscode,figma&perline=7" /> </p>
+🌈 Current Focus
 
-- 🔗 **Food Exchange App** – Share leftover food across communities  
+Mastering Next.js 15 + App Router
 
-*(More projects coming soon…)*  
+Building large-scale web systems
 
----
+Designing smooth UI/UX workflows
 
-### 📊 GitHub Stats
+Exploring AI-powered developer tools
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Majnu04&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Majnu04&theme=tokyonight" width="48%" />
-</p>
+🏗️ Featured Work
+🔹 Elite Tech Solutions – Modern Web Experience
 
----
+A premium website built for professional digital services.
+🖥️ https://elitedigitalsolutions.tech
 
-### 🔗 Connect With Me
+🔹 E-Waste Journey Tracker
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gowri-sankar-nelam-0555771b6/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel)](https://elitetechsolutions-eta.vercel.app)
+A dashboard to track, visualize, and reward e-waste recycling.
 
----
+🔹 FoodShare App
 
-⭐️ *Thanks for visiting my GitHub! Feel free to explore my projects.* 🚀
+A community platform for sharing food and reducing waste.
+
+📊 My GitHub in Motion
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Majnu04&show_icons=true&theme=react&hide_border=true" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Majnu04&theme=react&hide_border=true" width="48%"> </p>
+📬 Let’s Connect
+<p align="left"> <a href="https://www.linkedin.com/in/gowri-sankar-nelam-0555771b6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a> <a href="mailto:gourishanker0408@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a> <a href="https://elitetechsolutions-eta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a> </p>
+⭐ Signature Quote
+
+"Code it. Ship it. Improve it. Repeat."

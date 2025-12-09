@@ -1,55 +1,103 @@
-GOURI SHANKER
-Frontend Engineer • Web Developer • Tech Explorer
-<p align="center"> <img src="https://i.imgur.com/hYxZLZg.gif" width="420"/> </p>
-🚀 Who Am I?
+<!-- 3D Animated Header -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/images/animated_header.gif" width="100%" />
+</p>
 
-Hi! I'm Gouri Shanker, a developer who loves turning ideas into clean, powerful, and user-friendly digital experiences.
+<h1 align="center">👋 Hey, I'm <span style="color:#4FE0B0;">Gouri Shanker</span></h1>
+<h3 align="center">Frontend Engineer • React Developer • UI/UX Explorer</h3>
 
-I build modern web apps that are fast, minimal, and built with strong engineering practices.
-Currently leveling up in advanced frontend frameworks and cloud integration.
+---
 
-🧠 What I'm Great At
+<!-- 3D Developer Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TechShreyash/3D-GIFs/main/dev-working.gif" width="350" />
+</p>
 
-⚡ Building responsive & modern web UIs
+---
 
-🔥 React + Next.js frontend engineering
+## 🚀 About Me
 
-🧩 Firebase authentication & real-time apps
+🔥 Passionate about building **fast, modern & beautiful web apps**  
+🎨 Lover of **clean UI, smooth UX, and pixel-perfect design**  
+⚡ Always levelling up in **Next.js · Firebase · Cloud Deployments**  
+📌 View my GitHub: **[github.com/Majnu04](https://github.com/Majnu04)**  
 
-🚀 Optimized SEO, performance & deployments
+---
 
-📡 API design, integration, and automation
+## 🧠 Tech Stack I Use
 
-🚀 Tech I Use Daily
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,firebase,nodejs,express,mongodb,git,github,vscode,figma&perline=7" /> </p>
-🌈 Current Focus
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,firebase,nodejs,express,mongodb,git,github,vscode,figma&perline=7" />
+</p>
 
-Mastering Next.js 15 + App Router
+---
 
-Building large-scale web systems
+## 🌟 Featured Work
 
-Designing smooth UI/UX workflows
+### 🔹 Elite Tech Solutions  
+Premium modern business website  
+👉 https://elitedigitalsolutions.tech  
 
-Exploring AI-powered developer tools
+### 🔹 E-Waste Journey Dashboard  
+Track & reward responsible recycling  
 
-🏗️ Featured Work
-🔹 Elite Tech Solutions – Modern Web Experience
+### 🔹 FoodShare App  
+A platform to share leftover food easily  
 
-A premium website built for professional digital services.
-🖥️ https://elitedigitalsolutions.tech
+---
 
-🔹 E-Waste Journey Tracker
+# 📊 My GitHub Insights (Auto-Live)
 
-A dashboard to track, visualize, and reward e-waste recycling.
+## 🔥 GitHub Stats  
+<p align="center">
+  <a href="https://github.com/Majnu04">
+    <img src="https://github-readme-stats.vercel.app/api?username=Majnu04&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/Majnu04">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Majnu04&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+</p>
 
-🔹 FoodShare App
+---
 
-A community platform for sharing food and reducing waste.
+## 🛰️ 3D Contribution Graph (Clickable)
 
-📊 My GitHub in Motion
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Majnu04&show_icons=true&theme=react&hide_border=true" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Majnu04&theme=react&hide_border=true" width="48%"> </p>
-📬 Let’s Connect
-<p align="left"> <a href="https://www.linkedin.com/in/gowri-sankar-nelam-0555771b6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a> <a href="mailto:gourishanker0408@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a> <a href="https://elitetechsolutions-eta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a> </p>
-⭐ Signature Quote
+<p align="center">
+  <a href="https://github.com/Majnu04">
+    <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/profile-season-animate.svg" width="100%"/>
+  </a>
+</p>
 
-"Code it. Ship it. Improve it. Repeat."
+---
+
+## 🧩 Contribution Snake
+
+<p align="center">
+  <a href="https://github.com/Majnu04">
+    <img src="https://raw.githubusercontent.com/Majnu04/Majnu04/output/github-contribution-grid-snake-dark.svg" />
+  </a>
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gowri-sankar-nelam-0555771b6/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:gourishanker0408@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://elitedigitalsolutions.tech">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TechShreyash/3D-GIFs/main/earth-rotate.gif" width="160" />
+</p>
+
+<h3 align="center">✨ Keep Exploring. Keep Building. Keep Growing.</h3>
